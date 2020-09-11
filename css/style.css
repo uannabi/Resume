@@ -1,0 +1,56 @@
+body{
+  background:#303030;
+  color: #1aa376;
+  font-family: 'Helvetica', Sans-Serif;
+  margin:2%;
+}
+body{
+  background:#303030;
+  color: #1aa376;
+  font-family: 'Helvetica', Sans-Serif;
+  margin:2%;
+}
+.skillset .skillbar {
+	height:30px;
+  color:#0D0E0E;
+  width:0px;
+	border-radius:8px;
+  text-align:center;
+text-shadow:0.8px 0.7px #212121;
+	transition:0.4s linear;
+	transition-property:width;
+}
+.skillset .skillbar-container{
+  width:75%;
+  border: 1px solid #212121;
+  background-color:#424242;
+  border-radius:8px;
+  margin-bottom:2%;
+
+
+}
+.skillset{
+  border: 2px black solid;
+  border-radius: 12px;
+  padding: 2%;
+  width:100%;
+  background: #0D0E0E;
+  opacity: 0.8;
+  text-align: center;
+}
+.skillset ul {
+  list-style-type: none;
+  display:inline;
+}
+footer{
+  text-align:center;
+}
+a{
+ color:#2ecc71;
+}
+footer{
+  text-align:center;
+}
+a{
+ color:#2ecc71;
+}

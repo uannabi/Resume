@@ -1,3 +1,3 @@
 # My Resume things.
--skill set 
--experience
+  -skill set 
+  -experience

@@ -70,7 +70,7 @@ Certification
     
 
 
-</p>
+
 <hr>
 
 <strong>🔭 you can start from here ...</strong>

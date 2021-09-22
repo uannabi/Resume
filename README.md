@@ -49,6 +49,8 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 
 
 Certification 
+- [![Coursera Badge](https://img.shields.io/badge/Coursera%20Certification-AWS%20Cloud%20Practitioner%20Essentials-black?style=flat&logo=Coursera&logoColor=blue&link=https://www.coursera.org/account/accomplishments/certificate/K2U7M686BJ9X)](https://www.coursera.org/account/accomplishments/certificate/K2U7M686BJ9X)
+- [![Coursera Badge](https://img.shields.io/badge/Coursera%20Certification-AWS%20Cloud%20Technical%20Essentials-black?style=flat&logo=Coursera&logoColor=blue&link=https://www.coursera.org/account/accomplishments/certificate/BZZUNMFCAKR8)](https://www.coursera.org/account/accomplishments/certificate/BZZUNMFCAKR8)
 - [![IBM Badge](https://img.shields.io/badge/IBM%20Certification-IBM%20Certified:%20Machine%20Learning%20with%20Python-black?style=flat&logo=IBM&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/A5PW3VPDSQTB)](https://www.coursera.org/account/accomplishments/verify/A5PW3VPDSQTB)
 - [![AWS Badge](https://img.shields.io/badge/AWS%20Certification-Elements%20of%20Data%20Science-black?style=flat&logo=AmazonAWS&logoColor=orange&link=)]()
 - [![Udemy Badge](https://img.shields.io/badge/Udemy%20Certification-Spark%20and%20Python%20for%20Big%20Data%20with%20PySpark-black?style=flat&logo=udemy&logoColor=red&link=https://www.udemy.com/certificate/UC-4969a2ed-e4f2-47f3-ac8b-3b6eb10491e3/)](https://www.udemy.com/certificate/UC-4969a2ed-e4f2-47f3-ac8b-3b6eb10491e3/)

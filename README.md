@@ -38,7 +38,6 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Apache Spark Badge](https://img.shields.io/badge/-ApacheCassandra-black?style=flat&logo=ApacheCassandra&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Apache Cassandra Badge](https://img.shields.io/badge/-animus-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-black?style=flat&logo=Elasticsearch&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Elastic Badge](https://img.shields.io/badge/-Elastic-black?style=flat&logo=Elastic&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Amazon AWS Badge](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=AmazonAWS&logoColor=white&link=#)]()

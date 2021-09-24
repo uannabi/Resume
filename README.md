@@ -83,8 +83,8 @@ Certification
 <br>
 <p>
 
-- First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
-- Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) on medium
+ - First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
+ - Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) on medium
 </p>
 
 

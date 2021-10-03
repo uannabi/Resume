@@ -10,7 +10,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
-- 👯 I’m looking to collaborate on ETL or can be Crytpo 
+- 👯 I’m looking to collaborate on ETL or can be Crypto  
 - 🤔 I’m looking Data Science or Machine Learning Job
 - 💬 Ask me about Python & AWS 
 

@@ -12,7 +12,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
 - 👯 I’m looking to collaborate on ETL or can be Crypto  
 - 🤔 I’m looking Data Science or Machine Learning or Blockchain Job
-- 💬 Ask me about Python, AWS & Food
+- 💬 Ask me about Python, AWS & Foods
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)

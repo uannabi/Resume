@@ -8,9 +8,9 @@ Data Scientist with 5+ years of professional experience in building data-intensi
 <br>
 
 
-- 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
+- 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as IoB (Internet Of Behaviours)
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
-- 👯 I’m looking to collaborate on ETL or can be Crypto  
+- 👯 I’m looking to collaborate Block chain  
 - 🤔 I’m looking Data Science or Machine Learning or Blockchain Job
 - 💬 Ask me about Python, AWS & Foods
 

@@ -79,13 +79,13 @@ https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
 <hr>
-<strong>Try this articles to enrich knowledge</strong>
+<strong>Try this articles to enrich knowledge on medium</strong>
 <br>
 https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5
 
- - First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
- - Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) on medium
- - Third one  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5) on medium is
+ - First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6)
+ - Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2)
+ - Third one  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 
 
 

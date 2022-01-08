@@ -3,8 +3,8 @@
 ### Data Science & Big Data Analysis Enthusiasts | Python & AWS Dev 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Data Engineer with 5+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in analyzing Internet of Behaviours, data processing, data mining algorithms, and scripting language in python. Capable of creating, developing, testing, and deploying highly adaptive diverse service to translate business and function qualification into substantial deliverables. 
 
-Data Scientist with 5+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in clustering, predictive modeling, data processing, data mining algorithms, and scripting language in python. Capable of creating, developing, testing, and deploying highly adaptive diverse service to translate business and function qualification into substantial deliverables. 
 <br>
 
 

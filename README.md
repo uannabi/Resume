@@ -11,7 +11,7 @@ Data Engineer with 5+ years of professional experience in building data-intensiv
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as IoB (Internet Of Behaviours)
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
 - 👯 I’m looking to collaborate BlockChain  
-- 🤔 I’m looking Data Science or Machine Learning or Blockchain Job
+- 🤔 I’m looking Data Science or Blockchain Job
 - 💬 Ask me about Python, AWS & Blockchain
 
 
